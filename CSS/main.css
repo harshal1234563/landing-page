@@ -1,0 +1,56 @@
+*{
+    font-family: "Source Sans Pro", sans-serif;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+/* ============= nav-bar ============ */
+.logo{
+    width: 18%;
+}
+/* ============= nav-bar ============ */
+
+/* ============= Model-Section ============ */
+.textContainer{
+    padding: 0 21% 0 22%;
+    margin-top: 25%;
+}
+.descriptiom{
+    font-size: 19px;
+}
+.modelImg{
+    width: 96%;
+    height: 70%;
+}
+/* ============= Model-Section ============ */
+
+.imgContainer > img{
+    width: 25%;
+}
+
+.srvice-card{
+    border-radius: 12px;
+    box-shadow: 0px 7px 7px 5px rgb(203, 203, 203);
+}
+
+/* ============= Service-description-Section ============ */
+.service_img_container > img{
+    width: 87%;
+}
+
+.service-row{
+    margin-bottom: 20%;
+}
+
+.service-img{
+    border-radius: 40px;
+    box-shadow: 0px 8px 6px 5px gray;
+}
+
+/* ============= Service-description-Section ============ */
+
+.footer-section{
+    background-color:#293f75;
+    color: white !important;
+}
